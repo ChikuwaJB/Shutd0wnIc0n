@@ -1,0 +1,8 @@
+Package: com.chikuwa.shutd0wnic0n
+Name: Shutd0wn Ic0n
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Utilities
